@@ -16,6 +16,19 @@ The server is running with a hostname `game.pwn3`, so you'll need to add this to
 
 hash: `db1e797da308f027c876c61786682f3b`
 
+## Running on Linux in 2022
+
+Obviously things have progressed since PwnAdventure 3 first released. You may have noticed `libssl.so.1.0.0` and `libcrypto.so.1.0.0` are required but not available on the Ubuntu package manager now. To overcome this, you can do the following:
+
+```bash
+cd ./PwnAdventure3/PwnAdventure3/Binaries/Linux/
+# download a valid one from http://security.ubuntu.com/ubuntu/pool/main/o/openssl1.0/
+wget http://security.ubuntu.com/ubuntu/pool/main/o/openssl1.0/libssl1.0.0_1.0.2n-1ubuntu5.10_amd64.deb
+dpkg-deb -xv libssl1.0.0_1.0.2n-1ubuntu5.10_amd64.deb .
+cp ./usr/lib/x86_64-linux-gnu/* .
+sudo ./PwnAdventure3Server-Linux-Shipping
+```
+
 ## Infrastructure Notes
 
 There are three containers in the stack
