@@ -26,7 +26,7 @@ cd ./PwnAdventure3/PwnAdventure3/Binaries/Linux/
 wget http://security.ubuntu.com/ubuntu/pool/main/o/openssl1.0/libssl1.0.0_1.0.2n-1ubuntu5.10_amd64.deb
 dpkg-deb -xv libssl1.0.0_1.0.2n-1ubuntu5.10_amd64.deb .
 cp ./usr/lib/x86_64-linux-gnu/* .
-sudo ./PwnAdventure3Server-Linux-Shipping
+sudo ./PwnAdventure3-Linux-Shipping
 ```
 
 ## Infrastructure Notes
