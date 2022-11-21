@@ -29,6 +29,14 @@ cp ./usr/lib/x86_64-linux-gnu/* .
 sudo ./PwnAdventure3-Linux-Shipping
 ```
 
+## Mouse Pointer Issues
+
+Some users have had trouble using their mouse in Pwn Adventure, the camera does't bind to the mousee. We have 2 solutions for this:
+
+1. If running in a VM, try enabling "optimise the mouse for games"
+    - On VMWare Workstation `edit -> preferences -> input -> optimise mouse for games = always`
+2. Rebind the Up and Down arrow keys to control the camera. We will post a valid file for this in the near future
+
 ## Infrastructure Notes
 
 There are three containers in the stack

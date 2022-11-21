@@ -6,6 +6,10 @@ RUN apt update && apt install -y postgresql-client && \
 
 COPY --chown=postgres ./MasterServer /app/PwnAdventure3/
 
+RUN chmod +x /app/PwnAdventure3/MasterServer
+
+WORKDIR /app/PwnAdventure3/
+
 USER postgres
 EXPOSE 3333
 
