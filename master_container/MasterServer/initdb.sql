@@ -37,4 +37,4 @@ INSERT INTO teams(name, canonical_name, hash, admin) VALUES ('WeAreRoot', 'weare
 
 -- Customise welcome banner
 INSERT INTO info(name, contents) VALUES ('login_title', 'PwnAdventure 3 - Docker') ON CONFLICT (name) DO NOTHING;
-INSERT INTO info(name, contents) VALUES ('login_text', 'Welcome to Pwnie Island! For more info about the game and how to hack it, visit GitHub.com/beaujeant.') ON CONFLICT (name) DO NOTHING;
+INSERT INTO info(name, contents) VALUES ('login_text', 'Welcome to Pwnie Island! For free hacks, check out github.com/Cov-ComSec/pwn-adventure-fun') ON CONFLICT (name) DO NOTHING;

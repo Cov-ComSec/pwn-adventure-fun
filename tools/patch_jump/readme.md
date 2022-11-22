@@ -1,4 +1,4 @@
-# # Jump Hack - Binary Patching
+# Jump Hack - Binary Patching
 
 - Author: `sharkmoos`
 - Difficulty: Super Easy
