@@ -4,7 +4,12 @@ Infrastructure and tools built for the 4-week Pwn Adventure 3 hacking sessions f
 
 ## Tools Created
 
-- [Example tool](./tools/example_tool): Tool created for x by y
+- [Running Speed Binary Patch](./tools/patch_speed/): 
+    - Description: Permanently increase running speed.
+    - Author: @sharkmoos
+- [Infinite Jump Binary Patch](./tools/patch_jump/)
+    - Description: Why have double jump when you can infinite jump!
+    - Author: @sharkmoos
 
 ## Accessing the Server
 
