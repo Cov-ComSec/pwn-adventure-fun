@@ -16,6 +16,11 @@ Infrastructure and tools built for the 4-week Pwn Adventure 3 hacking sessions f
 - [(Frida) Hook Magmarok Health](./tools/magmarok_hook/)
     - Description: Have Magmarok boss's health displayed to a terminal every time you damage him. Useful for exploiting the integer overflow required to kill him
     - Author: @sharkmoos
+- [(Frida) Teleporting](./tools/egg_teleport/)
+    - Description: Utilising a teleport hack for a semi automated way to get all the golden eggs in Pwn adventure
+    - Author: @sharkmoos
+
+
 ## Accessing the Server
 
 ### Connecting to the Server
