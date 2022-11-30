@@ -4,18 +4,18 @@ Infrastructure and tools built for the 4-week Pwn Adventure 3 hacking sessions f
 
 ## Tools Created
 
-- [Demangle Symbols](./tools/demangle_symbols/)
+- [(Frida) Demangle Symbols](./tools/demangle_symbols/)
     - Description: Map mangled symbols required by Frida to symbols seen in the Interactive Disassemblers. 
     - Author: @sharkmoos
-- [Running Speed Binary Patch](./tools/patch_speed/): 
+- [(Binary Patch) Running Speed](./tools/patch_speed/): 
     - Description: Permanently increase running speed.
     - Author: @sharkmoos
-- [Infinite Jump Binary Patch](./tools/patch_jump/)
+- [(Binary Patch) Infinite Jump](./tools/patch_jump/)
     - Description: Why have double jump when you can infinite jump!
     - Author: @sharkmoos
-- [Hook Magmarok Health](./tools/magmarok_hook/)
+- [(Frida) Hook Magmarok Health](./tools/magmarok_hook/)
     - Description: Have Magmarok boss's health displayed to a terminal every time you damage him. Useful for exploiting the integer overflow required to kill him
-  
+    - Author: @sharkmoos
 ## Accessing the Server
 
 ### Connecting to the Server
