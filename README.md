@@ -13,7 +13,9 @@ Infrastructure and tools built for the 4-week Pwn Adventure 3 hacking sessions f
 - [Infinite Jump Binary Patch](./tools/patch_jump/)
     - Description: Why have double jump when you can infinite jump!
     - Author: @sharkmoos
-
+- [Hook Magmarok Health](./tools/magmarok_hook/)
+    - Description: Have Magmarok boss's health displayed to a terminal every time you damage him. Useful for exploiting the integer overflow required to kill him
+  
 ## Accessing the Server
 
 ### Connecting to the Server
