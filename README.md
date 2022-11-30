@@ -4,6 +4,9 @@ Infrastructure and tools built for the 4-week Pwn Adventure 3 hacking sessions f
 
 ## Tools Created
 
+- [Demangle Symbols](./tools/demangle_symbols/)
+    - Description: Map mangled symbols required by Frida to symbols seen in the Interactive Disassemblers. 
+    - Author: @sharkmoos
 - [Running Speed Binary Patch](./tools/patch_speed/): 
     - Description: Permanently increase running speed.
     - Author: @sharkmoos
