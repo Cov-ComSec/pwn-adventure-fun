@@ -1,0 +1,22 @@
+[New Element] ID: 1, Name: b'GreatBallsOfFire', X: -43655.0, Y: -55820.0, Z: 322.0, R: 0, P: 0, Y: -32768
+[New Element] ID: 2, Name: b'LostCaveBush', X: -53539.0, Y: -44246.0, Z: 358.0, R: 0, P: 0, Y: 0
+[New Element] ID: 3, Name: b'BearChest', X: -7894.0, Y: 64482.0, Z: 2663.0, R: -733, P: 129, Y: 32742
+[New Element] ID: 4, Name: b'CowChest', X: 252920.0, Y: -245380.0, Z: 1170.0, R: -478, P: -571, Y: -28920
+[New Element] ID: 5, Name: b'LavaChest', X: 50876.0, Y: -5243.0, Z: 1523.0, R: 0, P: 0, Y: 14563
+[New Element] ID: 6, Name: b'BlockyChest', X: -3055.0, Y: 23005.0, Z: 2275.0, R: 0, P: 0, Y: -16384
+[New Element] ID: 7, Name: b'GunShopOwner', X: -37463.0, Y: -18050.0, Z: 2416.0, R: 0, P: 0, Y: 32767
+[New Element] ID: 8, Name: b'JustinTolerable', X: -41084.0, Y: -16256.0, Z: 2270.0, R: 0, P: 0, Y: 27306
+[New Element] ID: 9, Name: b'Farmer', X: 21553.0, Y: 41232.0, Z: 2133.0, R: 0, P: 0, Y: 14563
+[New Element] ID: 10, Name: b'MichaelAngelo', X: 260255.0, Y: -248555.0, Z: 1415.0, R: 0, P: 0, Y: 20935
+[New Element] ID: 11, Name: b'GoldenEgg1', X: -25045.0, Y: 18085.0, Z: 260.0, R: 0, P: 0, Y: 0
+[New Element] ID: 12, Name: b'GoldenEgg2', X: -51570.0, Y: -61215.0, Z: 5020.0, R: 0, P: 0, Y: 0
+[New Element] ID: 13, Name: b'GoldenEgg3', X: 24512.0, Y: 69682.0, Z: 2659.0, R: 0, P: 0, Y: 0
+[New Element] ID: 14, Name: b'GoldenEgg4', X: 60453.0, Y: -17409.0, Z: 2939.0, R: 0, P: 0, Y: 0
+[New Element] ID: 15, Name: b'GoldenEgg5', X: 1522.0, Y: 14966.0, Z: 7022.0, R: 0, P: 0, Y: 0
+[New Element] ID: 16, Name: b'GoldenEgg6', X: 11604.0, Y: -13131.0, Z: 411.0, R: 0, P: 0, Y: 0
+[New Element] ID: 17, Name: b'GoldenEgg7', X: -72667.0, Y: -53567.0, Z: 1645.0, R: 0, P: 0, Y: 0
+[New Element] ID: 18, Name: b'GoldenEgg8', X: 48404.0, Y: 28117.0, Z: 704.0, R: 0, P: 0, Y: 0
+[New Element] ID: 19, Name: b'GoldenEgg9', X: 65225.0, Y: -5740.0, Z: 4928.0, R: 0, P: 0, Y: 0
+[New Element] ID: 20, Name: b'BallmerPeakEgg', X: -2778.0, Y: -11035.0, Z: 10504.0, R: 0, P: 0, Y: 0
+[New Element] ID: 21, Name: b'BallmerPeakPoster', X: -6101.0, Y: -10956.0, Z: 10636.0, R: 0, P: 0, Y: 0
+[Unknown Packet]

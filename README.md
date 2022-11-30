@@ -19,6 +19,10 @@ Infrastructure and tools built for the 4-week Pwn Adventure 3 hacking sessions f
 - [(Frida) Teleporting](./tools/egg_teleport/)
     - Description: Utilising a teleport hack for a semi automated way to get all the golden eggs in Pwn adventure
     - Author: @sharkmoos
+- [(Wireshark) Network Protocol Notes](./tools/network_reversing/)
+    - Description: Not actually a hack, but contains notes and a script on how I made progress reverse engineering and decoding the custom network protocol
+    - Author: @sharkmoos
+
 
 
 ## Accessing the Server
